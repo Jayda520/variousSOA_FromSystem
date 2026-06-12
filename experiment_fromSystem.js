@@ -9,10 +9,10 @@
   const NEXT_KEY = " ";
   const FIX_DUR = 1000;
   const MEM_DUR = 500;
-  const PRACTICE_TRIALS = 15; // 每个练习block的试次
+  const PRACTICE_TRIALS = 24; // 每个练习block的试次
   const PRACTICE_ACC_CRITERION = 0.80;
 
-  const TRIALS_PER_FORMAL_BLOCK = 30;   // 每个小 block 的试次
+  const TRIALS_PER_FORMAL_BLOCK = 90;   // 每个小 block 的试次
   const VALID_RATIO_FORMAL = 0.60;
   const VALID_RATIO_PRACTICE = 0.60;
   const CHANGE_RATIO = 0.50;
